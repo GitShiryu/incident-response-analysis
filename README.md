@@ -1,4 +1,4 @@
-# Incident-Response-Analysis
+# 🔒 Incident-Response-Analysis
 
 Forensic analysis of a brute force attack & malicious redirection. Includes tcpdump log analysis, exploited DNS/HTTP protocols, and 2FA mitigation. Google Cybersecurity Certificate project.
 
@@ -13,21 +13,20 @@ This repository contains a detailed forensic analysis of a simulated security in
 - **Incident response documentation**
 - **Security recommendations** including 2FA implementation
 
+## 📁 Project Structure
+- [`incident_report.md`](https://github.com/GitShiryu/incident-response-analysis/blob/main/incident_report.md) - Complete security incident report
+- `tcpdump_analysis.md` - Detailed log analysis (to be added)
+- `resources/` - Sample logs and evidence (to be added)
+
 ## 🛠️ Technologies Used
 - Network Analysis: tcpdump, Wireshark
 - Protocols: DNS, HTTP, TCP/IP
 - Security: NIST Framework, 2FA
 
-## 📁 Project Structure
-incident-response-analysis/
-├── README.md
-├── incident_report.md # Complete incident report
-├── tcpdump_analysis.md # Detailed log analysis
-└── resources/
-└── sample_logs.txt # Example tcpdump logs
-
-
 ## 📝 Related Coursework
 Developed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
 ---
+
+## 🔗 Quick Access
+[📋 View Full Incident Report](https://github.com/GitShiryu/incident-response-analysis/blob/main/incident_report.md)
