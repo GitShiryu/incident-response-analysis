@@ -1,4 +1,4 @@
-# Security Incident Report - yummyrecipesforme.com
+# 🔒 Security Incident Report - yummyrecipesforme.com
 
 ## Section 1: Identified Network Protocols
 **DNS (Domain Name System)** and **HTTP (Hypertext Transfer Protocol)** were exploited during this incident.
@@ -40,3 +40,6 @@ A former employee executed a brute force attack against the administrative accou
 - Eliminate default passwords
 - Implement account lockouts after multiple failed login attempts
 - Regular audit of administrative accounts
+
+---
+*Report generated as part of the Google Cybersecurity Professional Certificate on Coursera.*
