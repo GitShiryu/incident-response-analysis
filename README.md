@@ -26,6 +26,9 @@ This repository contains a detailed forensic analysis of a simulated security in
 ## 📝 Related Coursework
 Developed as part of the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on Coursera.
 
+## 📄 Download PDF Report
+[📥 Download completo do relatório em PDF](./yummyrecipesforme_security_incident_report.pdf)
+
 ---
 
 ## 🔗 Quick Access
